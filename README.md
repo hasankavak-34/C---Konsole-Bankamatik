@@ -1,0 +1,1 @@
+# C---Konsole-Bankamatik
